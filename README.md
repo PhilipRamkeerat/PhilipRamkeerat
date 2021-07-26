@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Philip, I'm a FullStack Javascript at INDT, and I've been working in tech since 2017. I'm from Brazil, Manaus.
+My name is Philip, I'm a Frontend Javascript Developer, and I've been working in tech since 2017. I'm from Brazil, Manaus.
 I love working with frontend, specifically with Angular.
 
 - 🔭 I’m currently working on fullstack project
