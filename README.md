@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-My name is Philip, 26 years old;
-
-I'm a Frontend JavaScript Developer, with a degree from two faculties: 1. Systems Analysis, 2. Computer Science; 
-
-Master's degree in Process Engineering from the UFPA faculty;
-
-I love working with frontend, specifically with Angular.
-
-I am currently working as a Senior Frontend at GFT Company.
+My name is Philip, Senior Frontend Developer Focused on Angular Stacks.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PhilipRamkeerat?style=social)](https://twitter.com/PhilipRamkeerat)
 [![Linkedin: philip](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philip-ramkeerat/)](https://www.linkedin.com/in/philip-ramkeerat/)
