@@ -4,7 +4,8 @@ My name is Philip, Senior Frontend Developer Focused on Angular Stacks.
 
 [My Site/ Portfolio](https://philipramkeerat.github.io/profile/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PhilipRamkeerat?style=social)](https://twitter.com/PhilipRamkeerat)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/PhilipRamkeerat?style=social)](https://twitter.com/PhilipRamkeerat) -->
+
 [![Linkedin: philip](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philip-ramkeerat/)](https://www.linkedin.com/in/philip-ramkeerat/)
 
 ## ⚡ Technologies
