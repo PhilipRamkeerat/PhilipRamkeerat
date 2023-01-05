@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Philip, Senior Frontend Developer Focused on Angular Stacks.
+My name is Philip,
 
 [My Site/ Portfolio](https://philipramkeerat.github.io/profile/)
 
