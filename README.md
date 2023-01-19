@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Philip,
+Hey there, my name is Philip and I am a Brazilian frontend developer with a few years under my belt. I love nothing more than creating amazing user interfaces and bringing the web to life with Angular. When I am not coding away, you can find me rockin' out to some tunes, crushing it at the gym or getting lost in a good video game. I also like to participate in the open-source community, contributing to projects and getting feedback from other developers. I am a well-rounded individual who loves to balance work and leisure, and always looking for new challenges and opportunities to learn and grow.
 
 [My Site/ Portfolio](https://philipramkeerat.github.io/profile/)
 
