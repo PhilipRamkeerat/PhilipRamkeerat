@@ -1,6 +1,6 @@
-   Olá, tudo bem ?
-      Bem vindo(a) ao meu perfil do github, 
-         abaixo você pode conferir meu site pessoal, sinta-se à vontade.
+
+Bem vindo(a) ao meu perfil do github
+
 
 [My Site/ Portfolio](https://philipramkeerat.github.io/profile/)
 
