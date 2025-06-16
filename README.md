@@ -1,8 +1,10 @@
 
-Bem vindo(a) ao meu perfil do github
+## 👋 Welcome to my profile!
 
-[Site] (https://philipramkeerat.com.br/)
-<!-- [My Site/ Portfolio](https://philipramkeerat.github.io/profile/) -->
+I'm a software developer with over 8 years of experience and a degree in Computer Science. I have strong expertise in **frontend development**, and also a solid **backend background**.
+
+🔗 [Visit my website](https://philipramkeerat.com.br/)
+
 
 
 
