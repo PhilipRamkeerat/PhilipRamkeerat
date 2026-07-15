@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://philipramkeerat.com.br/">Portfolio</a> •
+  <a href="https://philipramkeerat.github.io/philip-portfolio/home">Portfolio</a> •
   <a href="https://www.linkedin.com/in/philip-ramkeerat/">LinkedIn</a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a software developer with a Computer Science degree and professional experience dating back to 2016. My work is centered on modern frontend engineering, with deep experience across the Angular ecosystem and a solid understanding of backend development.
+I'm a software developer with a Computer Science degree and professional experience dating back to 2016. My work is centered on modern frontend engineering, with deep experience across the Angular ecosystem—from architecture decisions to implementation details.
 
 I enjoy designing frontend architecture, simplifying complex systems, improving developer experience, and building products that are fast, inclusive, and easy to evolve.
 
@@ -83,7 +83,7 @@ I value clear communication, pragmatic architecture, thoughtful code reviews, sm
 I'm always interested in exchanging ideas about frontend architecture, Angular, developer experience, accessibility, and the evolving role of AI in software development.
 
 <p align="center">
-  <a href="https://philipramkeerat.com.br/">
+  <a href="https://philipramkeerat.github.io/philip-portfolio/home">
     <img src="https://img.shields.io/badge/Visit_my_portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/philip-ramkeerat/">
